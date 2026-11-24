@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+.venv/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Datos generados al usar la app
+data/reservas.json
+
+# Editor / sistema
+.vscode/
+.DS_Store
+Thumbs.db
